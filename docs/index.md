@@ -6,6 +6,8 @@ Email: `yxc18@mails.tsinghua.edu.cn`
 
 Github: [yaoxingcheng](https://github.com/yaoxingcheng)
 
+Google Scholar: [Xingcheng Yao](https://scholar.google.com/citations?user=gAdAW44AAAAJ&hl=en&oi=ao)
+
 
 
 
