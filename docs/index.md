@@ -5,4 +5,4 @@ I know basic knowledge about deep machine learning, including:
   - commonly used pipeline in NLP or CV.
   - some frameworks to train deep ML models such as [pytorch](https://github.com/pytorch/pytorch)
 
-
+Email: `yxc18@mails.tsinghua.edu.cn`
