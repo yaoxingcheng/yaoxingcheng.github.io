@@ -8,6 +8,13 @@ Github: [yaoxingcheng](https://github.com/yaoxingcheng)
 
 Google Scholar: [Xingcheng Yao](https://scholar.google.com/citations?user=gAdAW44AAAAJ&hl=en&oi=ao)
 
+### Projects
+
+I'm quite proud of my final projects in several courses:
+- Cross Sentence Relation Extraction (*for the course Artificial Intelligence`*) [Thesis](https://yaoxingcheng.github.io/thesis/ai_final.pdf)
+- Texi-Passenger Matching Process (*for the course Network Science*) [Thesis](https://yaoxingcheng.github.io/thesis/network_science.pdf)
+- Strategy Transitivity in Two-Player Symmetric Zero-Sum Games (*for the course Game Theory*) [Thesis](https://yaoxingcheng.github.io/thesis/game_theory.pdf)
+
 
 
 
