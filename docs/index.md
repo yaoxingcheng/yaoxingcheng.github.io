@@ -29,10 +29,10 @@ Apart from course projects, I also participated in several group projects:
 
 ### Publications
 \* for equal contribution
-- **[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821)**\ *Tianyu Gao**, ***Xingcheng Yao****, *Danqi Chen*
+- **[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821)** &nbsp; *Tianyu Gao**, ***Xingcheng Yao****, *Danqi Chen*
 
-- **[CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://arxiv.org/abs/2103.00959)**\ *Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang* 
+- **[CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://arxiv.org/abs/2103.00959)** &nbsp; *Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang* 
 
-- **[A Semi-Supervised Framework for Automatic Pixel-Wise Breast Cancer Grading of Histological Images](https://arxiv.org/abs/1907.01696)**\ *Yanyuet Man**, *Xiangyun Ding**, ***Xingcheng Yao***, *Han Bao*
+- **[A Semi-Supervised Framework for Automatic Pixel-Wise Breast Cancer Grading of Histological Images](https://arxiv.org/abs/1907.01696)** &nbsp; *Yanyuet Man**, *Xiangyun Ding**, ***Xingcheng Yao***, *Han Bao*
 
 
