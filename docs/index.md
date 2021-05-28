@@ -1,8 +1,7 @@
-I'm currently an undergraduate student at [IIIS](https://iiis.tsinghua.edu.cn/en/), Tsinghua University.
+My name is **Xingcheng Yao** (a.k.a *姚星丞*)
 
-I know basic knowledge about deep machine learning, including:
-  - commonly used neural network models, such as Transformer, LSTM, GNN and CNN
-  - commonly used pipeline in NLP or CV.
-  - some frameworks to train deep ML models such as [pytorch](https://github.com/pytorch/pytorch)
+I'm currently a junior student at [IIIS](https://iiis.tsinghua.edu.cn/en/) (unofficially known as *Yao Class*), Tsinghua University. During my college year, I was once a research assistant at [Tsinghua KEG](http://keg.cs.tsinghua.edu.cn/), a teaching assistant for [Data Structure](https://dsa.cs.tsinghua.edu.cn/~deng/ds/index.htm), a research intern at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home) and a visiting scholar at [Princeton NLP Group](https://princeton-nlp.github.io/).
 
 Email: `yxc18@mails.tsinghua.edu.cn`
+
+
