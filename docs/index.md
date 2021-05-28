@@ -19,26 +19,23 @@ Here the first goal helps deep learning technologies thrive under academic conte
 ### Projects
 
 I'm quite proud of my final projects in several courses:
-- (*Artificial Intelligence*) Cross Sentence Relation Extraction \[[Thesis](https://yaoxingcheng.github.io/thesis/ai_final.pdf)\]
-- (*Network Science*) Texi-Passenger Matching Process \[[Thesis](https://yaoxingcheng.github.io/thesis/network_science.pdf)\]
-- (*Game Theory*) Strategy Transitivity in Zero-Sum Games \[[Thesis](https://yaoxingcheng.github.io/thesis/game_theory.pdf)\]
+- (*Artificial Intelligence*) **Cross Sentence Relation Extraction** \[[Thesis](https://yaoxingcheng.github.io/thesis/ai_final.pdf)\]
+- (*Network Science*) **Texi-Passenger Matching Process** \[[Thesis](https://yaoxingcheng.github.io/thesis/network_science.pdf)\]
+- (*Game Theory*) **Strategy Transitivity in Zero-Sum Games** \[[Thesis](https://yaoxingcheng.github.io/thesis/game_theory.pdf)\]
 
 Apart from course projects, I also participated in several group projects:
-- [COVID-Dashborad](https://covid-dashboard.aminer.cn): a visualization platform for pandemic data, winner of Tsinghua Chanllenge Cup, second prize
-- [FatefulStars](https://github.com/yaoxingcheng/FatefulStars): a video game based on physical gravity, first place winner of [HackPKU 2021](https://www.hackpku.com/)
+- **[COVID-Dashborad](https://covid-dashboard.aminer.cn)**: a visualization platform for pandemic data, winner of Tsinghua Chanllenge Cup, second prize
+- **[FatefulStars](https://github.com/yaoxingcheng/FatefulStars)**: a video game based on physical gravity, first place winner of [HackPKU 2021](https://www.hackpku.com/)
 
 ### Publications
 \* for equal contribution
 - **[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821)**
-
-*Tianyu Gao**, ***Xingcheng Yao****, *Danqi Chen*
+    *Tianyu Gao**, ***Xingcheng Yao****, *Danqi Chen*
 
 - **[CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://arxiv.org/abs/2103.00959)**
-
-*Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang* 
+    *Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang* 
 
 - **[A Semi-Supervised Framework for Automatic Pixel-Wise Breast Cancer Grading of Histological Images](https://arxiv.org/abs/1907.01696)**
-
-*Yanyuet Man**, *Xiangyun Ding**, ***Xingcheng Yao***, *Han Bao*
+    *Yanyuet Man**, *Xiangyun Ding**, ***Xingcheng Yao***, *Han Bao*
 
 
