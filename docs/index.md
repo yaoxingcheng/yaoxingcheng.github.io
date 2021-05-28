@@ -4,7 +4,7 @@ I'm currently a junior student at [IIIS](https://iiis.tsinghua.edu.cn/en/) (unof
 
 Email: `yxc18@mails.tsinghua.edu.cn`
 
-Github: [https://github.com/yaoxingcheng]
+Github: [yaoxingcheng](https://github.com/yaoxingcheng)
 
 
 
