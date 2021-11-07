@@ -30,6 +30,9 @@ Apart from course projects, I also participated in several group projects:
 
 ### Publications
 \* for equal contribution
+- **[NLP From Scratch Without Large-Scale Pre-training: A Simple and Efficient Framework](https://yaoxingcheng.github.io/thesis/tlm-view.pdf)**
+*Xingcheng Yao*, *Yanan Zheng*, *Xiaocong Yang*, *Zhilin Yang*
+
 - **[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821)** <br/> *Tianyu Gao*\*, ***Xingcheng Yao***\*, *Danqi Chen*
 
 
