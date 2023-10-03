@@ -1,19 +1,12 @@
 My name is **Xingcheng Yao** (*姚星丞*)
 
-I'm currently a researcher working at a startup AGI company. I graduated from [IIIS](https://iiis.tsinghua.edu.cn/en/) (unofficially known as ***Yao Class***), Tsinghua University. During my college year, I was once a research assistant at [Tsinghua KEG](http://keg.cs.tsinghua.edu.cn/), a teaching assistant for [Data Structure](https://dsa.cs.tsinghua.edu.cn/~deng/ds/index.htm), a research intern at [Huawei Noah's Ark Lab](https://www.noahlab.com.hk/#/home) and [Pony AI](https://pony.ai/), and a visiting scholar at [Princeton NLP Group](https://princeton-nlp.github.io/).
+I'm currently a researcher working at a startup AGI company. I graduated from [IIIS](https://iiis.tsinghua.edu.cn/en/) (well known as ***Yao Class***), Tsinghua University. During my college year, I was once a research assistant at [Tsinghua KEG](http://keg.cs.tsinghua.edu.cn/), a teaching assistant for [Data Structure](https://dsa.cs.tsinghua.edu.cn/~deng/ds/index.htm), and a visiting scholar at [Princeton NLP Group](https://princeton-nlp.github.io/).
 
 Email: yxchar00@gmail.com
 
 Github: [yaoxingcheng](https://github.com/yaoxingcheng)
 
 Google Scholar: [Xingcheng Yao](https://scholar.google.com/citations?user=gAdAW44AAAAJ&hl=en&oi=ao)
-
-### Research Interests
-
-My interests lie at the field of machine learning, with a particular emphasis on the practical applications of deep learning. Currently, my work is dedicated to advancing the field of Large Language Models (LLMs) from several key perspectives:
-- **Enhancing Efficiency**: My primary focus is on optimizing the efficiency of training and inference processes for foundational LLMs. By improving the efficiency of these models, I aim to enable their seamless scalability into the next generation, ensuring superior performance while minimizing computational resources.
-- **Expanding Context Length**: Another key aspect of my work is the effective expansion of the context length of language models. This expansion holds the potential to revolutionize a wide range of applications by allowing models to capture longer-range dependencies in text data, leading to more accurate and contextually aware language processing.\
-- **Towards AGI in the Digital World**: I am also passionate about advancing the development of unified multi-modal models. My ultimate goal is to contribute to the realization of Artificial General Intelligence (AGI) in the digital realm. These multi-modal models, capable of processing diverse types of data, hold the promise of significantly advancing AI capabilities and understanding in a holistic manner.
 
 ### Publications
 \* for equal contribution
@@ -28,6 +21,7 @@ My interests lie at the field of machine learning, with a particular emphasis on
 
 - **[CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://arxiv.org/abs/2103.00959)** <br/> *Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang* 
 
+- **[SOAER: Self-Obstacle Avoiding Escape Routing for Paper-Based Digital Microfluidic Biochips](https://dl.acm.org/doi/abs/10.1145/3583781.3590229)** <br/> *Weiqing Ji*, ***Xingcheng Yao***, *Hailong Yao*, *Tsung-Yi Ho*, *Ulf Schlichtmann*, *Xia Yin*
 
 - **[A Semi-Supervised Framework for Automatic Pixel-Wise Breast Cancer Grading of Histological Images](https://arxiv.org/abs/1907.01696)** <br/> *Yanyuet Man*\*, *Xiangyun Ding*\*, ***Xingcheng Yao***, *Han Bao*
 
