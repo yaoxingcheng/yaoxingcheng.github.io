@@ -10,10 +10,10 @@ Google Scholar: [Xingcheng Yao](https://scholar.google.com/citations?user=gAdAW4
 
 ### Publications
 \* for equal contribution
-- **[Automatic Truss Design with Reinforcement Learning](https://arxiv.org/abs/2306.15182)**
+- **[Automatic Truss Design with Reinforcement Learning](https://arxiv.org/abs/2306.15182)** <br/>
 *Weihua Du*, *Jinglun Zhao*, *Chao Yu*, ***Xingcheng Yao***, *Zimeng Song*, *Siyang Wu*, *Ruifeng Luo*, *Zhiyuan Liu*, *Xianzhong Zhao*, *Yi Wu*
 
-- **[NLP From Scratch Without Large-Scale Pre-training: A Simple and Efficient Framework](https://arxiv.org/abs/2111.04130)**
+- **[NLP From Scratch Without Large-Scale Pre-training: A Simple and Efficient Framework](https://arxiv.org/abs/2111.04130)** <br/>
 ***Xingcheng Yao***, *Yanan Zheng*, *Xiaocong Yang*, *Zhilin Yang*
 
 - **[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821)** <br/> *Tianyu Gao*\*, ***Xingcheng Yao***\*, *Danqi Chen*
@@ -22,8 +22,6 @@ Google Scholar: [Xingcheng Yao](https://scholar.google.com/citations?user=gAdAW4
 - **[CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://arxiv.org/abs/2103.00959)** <br/> *Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang* 
 
 - **[SOAER: Self-Obstacle Avoiding Escape Routing for Paper-Based Digital Microfluidic Biochips](https://dl.acm.org/doi/abs/10.1145/3583781.3590229)** <br/> *Weiqing Ji*, ***Xingcheng Yao***, *Hailong Yao*, *Tsung-Yi Ho*, *Ulf Schlichtmann*, *Xia Yin*
-
-- **[A Semi-Supervised Framework for Automatic Pixel-Wise Breast Cancer Grading of Histological Images](https://arxiv.org/abs/1907.01696)** <br/> *Yanyuet Man*\*, *Xiangyun Ding*\*, ***Xingcheng Yao***, *Han Bao*
 
 ### Projects
 
