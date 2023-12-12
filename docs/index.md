@@ -19,7 +19,7 @@ Google Scholar: [Xingcheng Yao](https://scholar.google.com/citations?user=gAdAW4
 - **[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821)** <br/> *Tianyu Gao*\*, ***Xingcheng Yao***\*, *Danqi Chen*
 
 
-- **[CogDL: An Extensive Toolkit for Deep Learning on Graphs](https://arxiv.org/abs/2103.00959)** <br/> *Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang* 
+- **[CogDL: A Comprehensive Library for Graph Deep Learning](https://arxiv.org/abs/2103.00959)** <br/> *Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang* 
 
 - **[SOAER: Self-Obstacle Avoiding Escape Routing for Paper-Based Digital Microfluidic Biochips](https://dl.acm.org/doi/abs/10.1145/3583781.3590229)** <br/> *Weiqing Ji*, ***Xingcheng Yao***, *Hailong Yao*, *Tsung-Yi Ho*, *Ulf Schlichtmann*, *Xia Yin*
 
