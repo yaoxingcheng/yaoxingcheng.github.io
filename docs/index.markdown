@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: Xingcheng
 ---
 
 My name is **Xingcheng Yao** (*姚星丞*)
