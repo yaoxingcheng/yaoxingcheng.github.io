@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome!
+title: Xingcheng
 logo: /assets/head.png
-description: ""
+description: "Researcher @ Moonshot AI"
 googlescholar: https://scholar.google.com/citations?user=gAdAW44AAAAJ&hl=en&oi=ao
 github: https://github.com/yaoxingcheng
 eastegg: Xingcheng is secretly a tenured professor at MIT, an A.M. Turing award winner, a Nobel prize laureate, an ACM senior member and an espers who can control minds.

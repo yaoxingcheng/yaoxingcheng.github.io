@@ -4,9 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <style>
+      .social-icons {
+            display: flex;
+            flex-direction: column;
+            gap: -2px;
+        }
+      .social-icons a {
+          color: #13034a;
+          text-decoration: none;
+          font-size: 14px;
+      }
+      .social-icons a:hover {
+          color: #053a73;
+      }
+    </style>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -18,12 +33,20 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
+        <p>
           <img src="{{site.logo | relative_url}}" alt="Logo" width="150" height="150" />
+        </p>
         {% endif %}
 
         <p>{{ site.description }}</p>
-        <p class="view"><a href="{{ site.googlescholar }}">Google Scholar</a></p>
-        <p class="view"><a href="{{ site.github }}">GitHub</a></p>
+        <div class="social-icons">
+          <p>
+            <a href="{{ site.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+          </p>
+          <p>
+            <a href="{{ site.github }}"><i class="fab fa-github"></i> GitHub</a>
+          </p>
+        </div>
         <p class="view" style="color: transparent">{{ site.eastegg }}</a></p>
       </header>
       <section>

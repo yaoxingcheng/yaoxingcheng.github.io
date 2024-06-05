@@ -3,7 +3,7 @@ layout: default
 title: Xingcheng
 ---
 
-My name is **Xingcheng Yao** (*姚星丞*)
+My name is **Xingcheng Yao** (*姚星丞*). Welcome to my homepage!
 
 I'm currently a researcher working at [Moonshot AI](https://www.moonshot.cn/), a startup AGI company. I graduated from [IIIS](https://iiis.tsinghua.edu.cn/en/) (well known as ***Yao Class***), Tsinghua University. During my college year, I was once a research assistant at [Tsinghua KEG](http://keg.cs.tsinghua.edu.cn/), a teaching assistant for [Data Structure](https://dsa.cs.tsinghua.edu.cn/~deng/ds/index.htm), and a visiting scholar at [Princeton NLP Group](https://princeton-nlp.github.io/).
 
