@@ -5,9 +5,9 @@ title: Xingcheng
 
 My name is **Xingcheng Yao** (*姚星丞*). Welcome to my homepage!
 
-I'm a first-year PhD student in computer science at UCLA, advised by Prof.[Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/). Prior to UCLA, I worked as a researcher at [Moonshot AI](https://www.moonshot.cn/), a startup that develops [KimiChat](https://kimi.moonshot.cn/). I received my Bachelor's degree from [IIIS](https://iiis.tsinghua.edu.cn/en/) (well known as ***Yao Class***), Tsinghua University, where I was fortunate to work with Prof. [Danqi Chen](https://www.cs.princeton.edu/~danqic/) and Prof. [Zhilin Yang](https://kimiyoung.github.io/). I'm currently working to accelerate the arrival of artifical super intelligence (ASI)
+I'm currently an AI researcher at [Moonshot AI](https://www.moonshot.cn/), a startup that develops [KimiChat](https://kimi.moonshot.cn/). I was planning to pursue my PhD at UCLA with advisement from Prof.[Kai-Wei Chang](https://web.cs.ucla.edu/~kwchang/), but decided to postpone this plan as I got [AGI-pilled](https://www.kimi.com/share/d10r992av1fdtpp6ikag). I received my Bachelor's degree from [IIIS](https://iiis.tsinghua.edu.cn/en/) (well known as ***Yao Class***), Tsinghua University, where I was fortunate to work with Prof. [Danqi Chen](https://www.cs.princeton.edu/~danqic/) and Prof. [Zhilin Yang](https://kimiyoung.github.io/). I'm excited to contribute to the development of artificial general intelligence and explore its potential impact on humanity.
 
-Email: sxyao At cs dOt ucla Dot edu
+Email: stuartyao0oo At gmail DoT com
 
 <br/>
 
