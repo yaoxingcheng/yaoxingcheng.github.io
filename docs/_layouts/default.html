@@ -45,8 +45,18 @@
           <p>
             <a href="{{ site.github }}"><i class="fab fa-github"></i> GitHub</a>
           </p>
+          {% if site.twitter %}
+          <p>
+            <a href="{{ site.twitter }}"><i class="fab fa-twitter"></i> X (formerly Twitter)</a>
+          </p>
+          {% endif %}
+          {% if site.linkedin %}
+          <p>
+            <a href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          </p>
+          {% endif %}
         </div>
-        <p class="view" style="color: transparent">{{ site.eastegg }}</a></p>
+        <p class="view" style="color: transparent">{{ site.eastegg }}</p>
       </header>
       <section>
 
