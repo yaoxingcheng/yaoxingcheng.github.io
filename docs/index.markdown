@@ -11,8 +11,11 @@ Email: stuartyao0oo At gmail DoT com
 
 <br/>
 
-### Publications
+### Selected Publications
 \* for equal contribution
+- **[Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)** <br/>
+Kimi Team (including ***Xingcheng Yao***)
+
 - **[Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491v1)** <br/>
 Angang Du et al. (including ***Xingcheng Yao***)
 
@@ -30,9 +33,6 @@ Angang Du et al. (including ***Xingcheng Yao***)
 
 - **[SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821)** <br/> 
 *Tianyu Gao*\*, ***Xingcheng Yao***\*, *Danqi Chen*
-
-- **[CogDL: A Comprehensive Library for Graph Deep Learning](https://arxiv.org/abs/2103.00959)** <br/> 
-*Yukuo Cen*, *Zhenyu Hou*, *Yan Wang*, *Qibin Chen*, *Yizhen Luo*, ***Xingcheng Yao***, *Aohan Zen*, *Shiguang Guo*, *Peng Zhang*, *Guohao Dai*, *Yu Wang*, *Chang Zhou*, *Hongxia Yang*, *Jie Tang*
 
 <br/>
 
