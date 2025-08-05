@@ -17,7 +17,7 @@ Email: stuartyao0oo At gmail DoT com
 Kimi Team (including ***Xingcheng Yao***)
 
 - **[Kimi-VL Technical Report](https://arxiv.org/abs/2504.07491v1)** <br/>
-Angang Du et al. (including ***Xingcheng Yao***)
+Kimi Team (including ***Xingcheng Yao***)
 
 - **[Muon is Scalable For LLM Training](https://arxiv.org/abs/2502.16982)** <br/>
 *Jingyuan Liu*, *Jianlin Su*, ***Xingcheng Yao***, *Zhejun Jiang*, *Guokun Lai*, *Yulun Du*, *Yidao Qin*, *Weixin Xu*, *Enzhe Lu*, *Junjie Yan*, *Yanru Chen*, *Huabin Zheng*, *Yibo Liu*, *Shaowei Liu*, *Bohong Yin*, *Weiran He*, *Han Zhu*, *Yuzhi Wang*, *Jianzhou Wang*, *Mengnan Dong*, *Zheng Zhang*, *Yongsheng Kang*, *Hao Zhang*, *Xinran Xu*, *Yutao Zhang*, *Yuxin Wu*, *Xinyu Zhou*, *Zhilin Yang*
