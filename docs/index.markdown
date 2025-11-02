@@ -13,6 +13,9 @@ Email: stuartyao0oo At gmail DoT com
 
 ### Selected Publications
 \* for equal contribution
+- **[Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)** <br/>
+Kimi Team (including ***Xingcheng Yao***)
+
 - **[Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)** <br/>
 Kimi Team (including ***Xingcheng Yao***)
 
